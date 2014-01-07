@@ -1,7 +1,7 @@
 ---
 layout: page
-title: substars!!!
-tagline: doesn't use subversion despite the prefix similarities, crazy right
+title: welcome to the substars
+tagline: where subversion is not used despite the prefix similarities, crazy right
 ---
 {% include JB/setup %}
 
